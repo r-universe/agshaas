@@ -13,10 +13,22 @@
     "from": "PICtR"
   },
   {
+    "package": "CytoNorm",
+    "url": "https://github.com/saeyslab/CytoNorm",
+    "via": ["Spectre"],
+    "from": "Spectre"
+  },
+  {
     "package": "Rphenograph",
     "url": "https://github.com/JinmiaoChenLab/Rphenograph",
     "via": ["PICtR", "Spectre"],
     "from": "PICtR"
+  },
+  {
+    "package": "Rphenograph",
+    "url": "https://github.com/JinmiaoChenLab/Rphenograph",
+    "via": ["Spectre"],
+    "from": "Spectre"
   },
   {
     "package": "Spectre",
