@@ -2,6 +2,23 @@
 	path = .registry
 	url = https://github.com/agshaas/agshaas.r-universe.dev
 	branch = HEAD
+[submodule "BPCells"]
+	path = BPCells
+	url = https://github.com/bnprks/BPCells
+	subdir = r
+	registered = false
+[submodule "CytoNorm"]
+	path = CytoNorm
+	url = https://github.com/saeyslab/CytoNorm
+	registered = false
 [submodule "PICtR"]
 	path = PICtR
 	url = https://github.com/agSHaas/PICtR
+[submodule "Rphenograph"]
+	path = Rphenograph
+	url = https://github.com/JinmiaoChenLab/Rphenograph
+	registered = false
+[submodule "Spectre"]
+	path = Spectre
+	url = https://github.com/immunedynamics/Spectre
+	registered = false
