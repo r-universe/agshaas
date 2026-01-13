@@ -1,0 +1,27 @@
+[
+  {
+    "package": "BPCells",
+    "url": "https://github.com/bnprks/BPCells",
+    "via": ["PICtR"],
+    "subdir": "r",
+    "from": "PICtR"
+  },
+  {
+    "package": "CytoNorm",
+    "url": "https://github.com/saeyslab/CytoNorm",
+    "via": ["PICtR", "Spectre"],
+    "from": "PICtR"
+  },
+  {
+    "package": "Rphenograph",
+    "url": "https://github.com/JinmiaoChenLab/Rphenograph",
+    "via": ["PICtR", "Spectre"],
+    "from": "PICtR"
+  },
+  {
+    "package": "Spectre",
+    "url": "https://github.com/immunedynamics/Spectre",
+    "via": ["PICtR"],
+    "from": "PICtR"
+  }
+]
